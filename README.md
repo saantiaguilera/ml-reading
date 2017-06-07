@@ -6,6 +6,7 @@ Useful stuff you should definetely read about ML
 - [Standford cs231n classes](mega.nz/#!0FtFyCjJ!_hXJXCBNN-rZgJXuw-mpAb-D-MHS4AJ8hZS-QYnSXd4)
 - [Karpathy blog](http://karpathy.github.io/)
 - [Cat papers](https://github.com/junyanz/CatPapers)
+- [Arxiv sanitizer](http://www.arxiv-sanity.com/)
 
 ---
 
