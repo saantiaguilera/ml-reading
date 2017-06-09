@@ -29,6 +29,7 @@ Useful stuff you should definetely read about ML
 - [Viola jones](http://www.vision.caltech.edu/html-files/EE148-2005-Spring/pprs/viola04ijcv.pdf)
 - [Viola jones analysis](http://www.ipol.im/pub/art/2014/104/article.pdf)
 - [Low resolution images restoration with DNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Deep_Networks_for_ICCV_2015_paper.pdf)
+- [SubPixel low resolution images restoration with CNN](https://arxiv.org/pdf/1609.05158.pdf)
 - [Compressing CNNs for reducing hyperparameters (good for mobile)](https://arxiv.org/pdf/1412.6115.pdf)
 - [CNN deeper architecture](https://arxiv.org/abs/1409.4842)
 - [Scalable object detection in CNN](https://arxiv.org/abs/1312.2249)
